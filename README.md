@@ -12,5 +12,5 @@ Models are trained using simulated data which is given by University College Lon
 
 # Acknowledgements
 - The author would express his great thanks to his teammates on the physics project: Mr. Ibrahim Almasri and Mr. Zian Huang, for providing the foundation of Machine Learning Models.
-- he physics project behind this was supervised by Prof. Nikolaos Konstantinidis at UCL Department of Physics and Astronomy
-- We also really appreciate all of the supports from Dr. Naoki Kimura and Dr. Alex Christopher Martyniuk at CERN
+- This physics project was supervised by Prof. Nikolaos Konstantinidis at UCL Department of Physics and Astronomy.
+- We also really appreciate all of the supports from Dr. Naoki Kimura and Dr. Alex Christopher Martyniuk at CERN.
