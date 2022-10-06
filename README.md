@@ -6,7 +6,7 @@ The aim of this repository is to compare the performance of trained machine lear
 
 Models are trained using simulated data which is given by University College London Department of Physics and Astronomy.
 
-A brief summary of the project is included in "*summary.docx*"
+A brief summary of the project is included in "*Summary.docx*"
 
 # Author
 - Wei Sheng Lai 
